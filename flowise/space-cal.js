@@ -1,0 +1,1 @@
+return $flow.split(' ').length - 1;
